@@ -2,6 +2,6 @@ Source code of this project
 
 Bug fixing for the video calling
 
-Bug fixing for audio calling
+Bug fixing for the audio calling
 
 Enhancement code added
